@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.btnhover:hover {
+    background-color: grey;
+    opacity: 0.6;
+}
+.btnhovernav:hover {
+    background-color: grey;
+    opacity: 0.6;
+    height: 100%;
+    width: 100%;
+}
+.hovertext:hover {
+    color: lightgreen;
+}
